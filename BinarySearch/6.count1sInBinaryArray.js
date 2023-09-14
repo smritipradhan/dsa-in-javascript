@@ -1,0 +1,1 @@
+// Count 1s count first Occurence and (length - fisrt Occurence)

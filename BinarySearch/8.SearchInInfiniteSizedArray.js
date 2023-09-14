@@ -1,0 +1,1 @@
+// multiples of 2 and then bin search
